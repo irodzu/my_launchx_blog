@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje"
-date: 2022-03-01
+date: 2022-04-11
 description: 'Memorias de viaje a través de LaunchX'
 ---
 
