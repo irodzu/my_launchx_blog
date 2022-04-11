@@ -1,7 +1,7 @@
 ---
-title: "Mis expectativas"
+title: "La cultura de un Desarrollad@r de software"
 date: 2022-02-21T18:16:21-06:00
-description: 'La cultura de un Desarrollad@or de software.'
+description: 'Los valores, habilidades y conocimientos necesarios para convertirte en un Desarrollad@or profesional.'
 ---
 
 Hola, buen día a todos.
