@@ -23,6 +23,8 @@ Mis Experiencias:
 
 - He tenido experienca en desarrollo web, manejo y consulta de bases de datos e implementaciones de sistemas ERP y similares.
 - También he tenido experiencia en soporte técnico y el área de ventas
-
+- Actualmente me desempeño como implementador de facturación electrónica v4.0 y consultor funcional.
+- Tengo conocimientos de contabilidad, inventarios, cuentas por pagar, cuentas por cobrar y facturación.
+ 
 🚀
 
